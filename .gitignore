@@ -1,0 +1,23 @@
+# Rider / JetBrains IDEs
+.idea/
+*.sln.iml
+
+# Build output directories
+bin/
+obj/
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db
